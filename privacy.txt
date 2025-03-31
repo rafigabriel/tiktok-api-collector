@@ -1,0 +1,24 @@
+# Privacy Policy - TikTok Collector
+
+Last updated: March 2025
+
+TikTok Collector is a research tool designed to collect publicly available information from TikTok profiles and videos.
+
+## 1. Data Collection
+We collect only publicly available data from TikTok’s API, such as:
+- Profile information (username, followers, etc.).
+- Video metadata (views, likes, etc.).
+
+## 2. Data Usage
+The collected data is used solely for research and analytical purposes. No personally identifiable information is stored beyond what is publicly accessible.
+
+## 3. Data Sharing
+We do not share, sell, or distribute collected data to third parties.
+
+## 4. Security
+This tool does not store sensitive data or login credentials. All API requests follow TikTok’s official security guidelines.
+
+## 5. Changes to Privacy Policy
+This Privacy Policy may be updated at any time. Continued use of this software means you accept the updated policy.
+
+For any concerns, contact the developer.

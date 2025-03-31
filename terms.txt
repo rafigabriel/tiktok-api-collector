@@ -1,0 +1,22 @@
+# Terms of Service - TikTok Collector
+
+Last updated: March 2025
+
+Welcome to TikTok Collector! This software is intended for research and data analysis purposes only.
+
+## 1. Purpose
+TikTok Collector is a tool designed to collect publicly available profile and video information from TikTok for analysis. It does not interact with TikTok users, modify data, or bypass any security measures.
+
+## 2. User Responsibility
+By using this software, you agree:
+- To comply with TikTok's Terms of Service and API usage policies.
+- Not to use the collected data for malicious purposes or unauthorized distribution.
+- That the developer is not responsible for any misuse of this tool.
+
+## 3. API Usage
+This tool uses TikTok’s official API to retrieve publicly available data. We do not store or distribute personal data beyond what is publicly accessible.
+
+## 4. Changes to Terms
+We reserve the right to update these terms at any time. Continued use of this software after changes means you accept the new terms.
+
+For any questions, contact the developer.
